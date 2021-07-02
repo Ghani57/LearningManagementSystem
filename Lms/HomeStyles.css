@@ -1,0 +1,17 @@
+.nav-extended{
+    background-color: skyblue;
+    margin-top: 10px;
+    opacity: 0.9;
+}
+h2{
+    color: white;
+    text-align: center;
+}
+#logo{
+    height: 80px;
+    width: 80px;
+    margin-left: 20px;
+}
+.nav-content{
+    margin-left: 90px;
+}

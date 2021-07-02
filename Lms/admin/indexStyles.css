@@ -1,0 +1,16 @@
+#header{
+    background-image:url(Images/backgroundImg.jpg);
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    position: fixed;
+}
+.first{
+    margin-top: 20px;
+}
+.nav-extended{
+    background-color: grey;
+    margin-top: 5px;
+}
